@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bareixich.joelaa.com/sitemap.xml
